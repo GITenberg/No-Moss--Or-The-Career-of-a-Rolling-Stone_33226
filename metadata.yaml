@@ -1,0 +1,35 @@
+_repo: No-Moss--Or-The-Career-of-a-Rolling-Stone_33226
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33226-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yachts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young men -- Juvenile fiction'
+- !lcsh 'Newport (R.I.) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: No Moss; Or, The Career of a Rolling Stone
+url: http://www.gutenberg.org/ebooks/33226
